@@ -32,7 +32,7 @@ public class BallController : MonoBehaviour
 
     private void Update() 
     {
-        Challenge();
+        //Challenge();
 
         if(Input.GetMouseButtonDown(0))
         {
